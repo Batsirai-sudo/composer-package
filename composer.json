@@ -1,0 +1,21 @@
+{
+    "name": "batsirai/intro",
+    "description": "This is my first test package for composer",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Batsirai\\Intro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Batsirai Muchareva",
+            "email": "batsirai.dev@gmail.com",
+            "homepage": "https://batsirai.dev",
+            "role": "Software Engineer"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
